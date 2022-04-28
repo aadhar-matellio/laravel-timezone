@@ -12,7 +12,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "aadhar_matellio\\timezones\\": "src/"
+      "AADHAR_MATELLIO\\TimeZones\\": "src/"
     }
   },
   "require": {}
