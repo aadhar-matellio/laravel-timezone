@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use AADHAR_MATELLIO\TimeZones\TimezonesController;
+use aadhar_matellio\timezones\src\TimezonesController;
 
 /*
 |--------------------------------------------------------------------------
