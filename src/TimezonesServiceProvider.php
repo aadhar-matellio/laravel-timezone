@@ -1,6 +1,6 @@
 <?php
 
-namespace PCB\TimeZones;
+namespace AADHAR_MATELLIO\TimeZones;
 
 use Illuminate\Support\ServiceProvider;
 

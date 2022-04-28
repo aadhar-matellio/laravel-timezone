@@ -1,5 +1,5 @@
 {
-  "name": "aadhar-matellio/timezones",
+  "name": "aadhar_matellio/timezones",
   "description": "Sample Laravel Package to show timezones",
   "type": "library",
   "license": "MIT",
@@ -12,7 +12,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "AADHAR-MATELLIO\\TimeZones\\": "src/"
+      "AADHAR_MATELLIO\\TimeZones\\": "src/"
     }
   },
   "require": {}

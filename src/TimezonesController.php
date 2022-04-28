@@ -1,4 +1,6 @@
-namespace PCB\TimeZones;
+<?php
+
+namespace AADHAR_MATELLIO\TimeZones;
 
 use Carbon\Carbon;
 use App\Http\Controllers\Controller;
