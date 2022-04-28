@@ -1,6 +1,6 @@
 <?php
 
-namespace aadhar_matellio\TimeZones;
+namespace aadhar_matellio\timezones;
 
 use Illuminate\Support\ServiceProvider;
 
