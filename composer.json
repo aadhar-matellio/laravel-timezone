@@ -1,19 +1,19 @@
 {
-    "name": "aadhar-matellio/timezones",
-    "description": "Sample Laravel Package to show timezones",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Aadhar Gaur",
-            "email": "aadhar.matellio@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload": {
-      "psr-4": {
-        "AADHAR-MATELLIO\\TimeZones\\": "src/"
-      }
+  "name": "aadhar-matellio/timezones",
+  "description": "Sample Laravel Package to show timezones",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aadhar gaur",
+      "email": "aadhar.matellio@gmail.com"
     }
-}​
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "AADHAR-MATELLIO\\TimeZones\\": "src/"
+    }
+  },
+  "require": {}
+}
